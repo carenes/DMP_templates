@@ -1,6 +1,7 @@
 # DMP_templates
 
-Adaptation des modèles de data management plans fournis par l'ANR et pour les financements H2020 et ERC aux formats TeX et Rmd.
+Adaptation des modèles de data management plans fournis par l'ANR (document pdf) et pour les financements H2020 (docx ou odt) aux formats TeX et Rmd.
+(Modèle ERC à venir)
 
 Sources des adaptations : 
 - ANR : https://anr.fr/fileadmin/documents/2019/ANR-modele-PGD.pdf
